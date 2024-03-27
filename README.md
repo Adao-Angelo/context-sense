@@ -3,6 +3,7 @@
 This is an AI (Artificial Intelligence) for analyzing offensive context
 
 ## objective
+
 This AI aims to analyze context and offensive words in text.
 it can provide some effective words in sending messages in writing comments and many more in applications that need to predict this
 
