@@ -1,7 +1,7 @@
 import { run } from "./running";
 
-async function start() {
-  const response = await run("ola");
+async function start(text: string) {
+  const response = await run(text);
 
   if (response == "no") {
     return true;
@@ -11,4 +11,3 @@ async function start() {
 }
 
 module.exports = start;
-start();
