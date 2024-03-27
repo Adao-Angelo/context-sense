@@ -9,3 +9,7 @@ it can provide some effective words in sending messages in writing comments and 
 
 <img src= "https://outraspalavras.net/wp-content/uploads/2023/02/Captura-de-tela-de-2023-02-16-19-07-02.png">
 
+
+## status : 
+
+desenvolvimento
