@@ -7,7 +7,7 @@ function semanthicSearchToOffensiveWordsByContext(context: string) {
         
         Analise se é ofensivo as expressoes que foram usados no texto ou se o mesmo ofende alguem
 
-        se sim diz ok e onde ofende se não diz não ofende.
+        se sim diz yes e onde ofende se não diz no .
     `;
 }
 
